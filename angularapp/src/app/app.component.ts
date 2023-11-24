@@ -8,3 +8,9 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'angularapp';
 }
+console.log("saravana")
+console.log("saravana")
+console.log("saravana")
+console.log("saravana")
+console.log("saravana")
+console.log("saravana")
